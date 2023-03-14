@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+ * {
+	 margin: 0;
+	 padding: 0;
+	 box-sizing: border-box;
+}
+ .alert {
+	 width: 80%;
+	 margin: 20px auto;
+	 padding: 30px;
+	 position: relative;
+	 border-radius: 5px;
+	 box-shadow: 0 0 15px 5px #ccc;
+}
+ .close {
+	 position: absolute;
+	 width: 30px;
+	 height: 30px;
+	 opacity: 0.5;
+	 border-width: 1px;
+	 border-style: solid;
+	 border-radius: 50%;
+	 right: 15px;
+	 top: 25px;
+	 text-align: center;
+	 font-size: 1.6em;
+	 cursor: pointer;
+}
+ .simple-alert {
+	 background-color: #aed6e5;
+	 border-left: 5px solid #245b70;
+}
+ .simple-alert .close {
+	 border-color: #245b70;
+	 color: #245b70;
+}
+ .success-alert {
+	 background-color: #aee5c0;
+	 border-left: 5px solid #24703d;
+}
+ .success-alert .close {
+	 border-color: #24703d;
+	 color: #24703d;
+}
+ .danger-alert {
+	 background-color: #e5aeae;
+	 border-left: 5px solid #702424;
+}
+ .danger-alert .close {
+	 border-color: #702424;
+	 color: #702424;
+}
+ .warning-alert {
+	 background-color: #ffe6a9;
+	 border-left: 5px solid #a97800;
+}
+ .warning-alert .close {
+	 border-color: #a97800;
+	 color: #a97800;
+}
