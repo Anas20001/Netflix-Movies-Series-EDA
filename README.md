@@ -16,14 +16,19 @@ In this project, we explore the Netflix dataset and attempt to answer several qu
 * What are the most common genres for TV shows and movies?
 * What countries produce the most content on Netflix?
 * What is the average duration of TV shows and movies on Netflix?
+* Which countries produce the most movies and TV shows?
+* Frequencies of Genres in Dataset
+* Number of Content Produced by Month and Type
+* The frequency of genres for each rating category.
+* The relationship between duration and rating.
 * How has the amount of content added to Netflix changed over time?
+* Average duration of content for each director
+* Which countries have the most Content available on Netflix? 
 
 
 ## Authors 
 
-This project was created by Anas Mohamed, Mai AbuHashima, Mariam
-,and Sayed Anwar
-
+This project was created by 
 [Anas Mohamed](https://github.com/Anas20001)
 [Mai AbuHashima](https://github.com/maigamalabuhashima20)
 [Mariam Gamal](https://github.com/mariameldakhly)
